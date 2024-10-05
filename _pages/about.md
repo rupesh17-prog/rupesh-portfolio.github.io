@@ -1,12 +1,4 @@
-<style>
-    body {
-        font-family: 'Open Sans', sans-serif;
-    }
 
-    h1 {
-        font-family: 'Roboto', sans-serif;
-    }
-</style>
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
